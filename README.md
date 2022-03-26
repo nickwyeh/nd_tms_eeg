@@ -1,7 +1,7 @@
 ## Brain stimulation and emotional memory (nd_tms_eeg)
 
 ##### Main findings:
-* The results demonstrated that, relative to control stimulation, sTBS to the mPFC enhanced memory for negative objects on the long delay test (collapsed across specific and gist-based memory measures). mPFC stimulation had no discernable effect on memory for objects on the short delay test nor on the background images at either test. These results suggest that mPFC activity occurring during encoding interacts with consolidation processes to preferentially preserve negatively salient information.
+* The results demonstrated that, relative to control stimulation, short theta burst stimulation to the medial prefrontal cortex enhanced memory for negative objects on the long delay test (collapsed across specific and gist-based memory measures). Medial prefrontal cortex stimulation had no discernable effect on memory for objects on the short delay test nor on the background images at either test. These results suggest that mPFC activity occurring during encoding interacts with consolidation processes to preferentially preserve negatively salient information.
 
 <table align = "center">
   <tr>
